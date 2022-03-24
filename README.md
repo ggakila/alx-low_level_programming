@@ -1,1 +1,1 @@
-This is about learning how to program in C
+This repository contains the entire progess of learning C programming language.
