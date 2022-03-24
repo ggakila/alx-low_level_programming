@@ -1,1 +1,1 @@
-This repository contains the entire progess of learning C programming language.
+README for pointers arrays and strings
