@@ -16,4 +16,4 @@ int countWords(char *s);
 int endIndex(char *s, int index);
 int startIndex(char *s, int index);
 
-#endi
+#endif
