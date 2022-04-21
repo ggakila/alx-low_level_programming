@@ -32,4 +32,4 @@ int main(void)
     free(new);
     return (0);
 }
-© 2022 GitHub, Inc.
+
